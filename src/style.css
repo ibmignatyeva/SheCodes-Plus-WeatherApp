@@ -62,8 +62,10 @@ footer {
 }
 .weather-temperature img {
   margin-right: 5px;
-  height: 64px;
-  width: 64px;
+  margin-top:-25px;
+  height:80px;
+  width:80px;
+
 }
 .weather-temperature strong {
   color: rgb(33, 33, 33);
